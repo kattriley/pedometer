@@ -1,7 +1,7 @@
 # pedometer
 
 
-
+this is made as a joke 
 
 
 
