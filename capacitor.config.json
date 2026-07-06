@@ -1,0 +1,12 @@
+{
+  "appId": "com.pedometer.app",
+  "appName": "Pedometer",
+  "webDir": "www",
+  "bundledWebRuntime": false,
+  "server": {
+    "androidScheme": "https"
+  },
+  "android": {
+    "allowMixedContent": true
+  }
+}
